@@ -1,0 +1,158 @@
+
+*{
+    background-color: white;
+}
+.nav{
+     text-align: center; 
+     background-color: black;
+     font-size: 14px;
+     line-height: 30px;
+     
+     
+}
+#bar{
+    word-spacing: 5em;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+}
+.logo{
+    padding-left: 100px;
+    background-color: black;
+}
+a{
+    text-decoration: none; 
+    color:white;
+}
+p>a{
+    text-decoration: none;
+    color:rgb(9, 114, 163);
+    background-color: gainsboro;
+    
+}
+
+.para{
+    text-align: center;
+    background-color: gainsboro;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#img{
+    padding-top: 90px;
+    width: 490px;
+    height: 85px;
+}
+div{
+    text-align: center;
+}
+
+.div{
+    text-align: center;
+    font-size: 30px;
+    word-spacing: 15px;
+    
+}
+#learnmore{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: rgb(9, 114, 163);
+  
+}
+#img2{
+    text-align: center;
+    padding-top: 60px;
+}
+.apple{
+    
+    padding-top: 110px;
+    width: 180px;
+    height:100px ;
+    
+}
+h1{
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 64px;
+    padding-top: 10px;
+}
+
+#iphone{
+    color:white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
+    line-height: 1em;
+}
+#leap{
+     background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(9, 114, 163);
+    font-size: 2em;
+}
+#offer{
+    text-align: center;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    color: gray;
+}
+.buy{
+    background-color: black;
+    color: rgb(9, 114, 163);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.one{
+    line-height: 50px;
+}
+    
+
+#images{
+
+    background-color: black;
+    line-height: 25px;
+    
+    
+}
+.pic{
+
+    width: 500px;
+    height: 390px;
+
+}
+.two{
+    background-color: black;
+}
+.foot{
+    background-color: gainsboro;
+    text-align: justify;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: gray;
+}
+.list{
+    background-color: gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    text-align: center;
+    color: gray;
+    line-height: 25px;
+    
+  
+    
+    
+}
+.list2{
+    background-color: gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    text-align: center;
+    color: gray;
+    line-height: 25px;
+    
+    
+}
+
