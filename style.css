@@ -1,2 +1,64 @@
      /* nav bar start  */
 
+     .container{
+        background-color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        min-width: 170px;
+    
+    }
+    .nav{
+        background-color: black;
+      
+        margin: -8px 10px 0px 10px;
+        list-style: none;
+        
+     
+        
+    }
+    .links{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    
+    }
+    .links li a{
+        font-size: 1em;
+        color: silver;
+        line-height: 3.5em;
+        font-weight: bold;
+        text-decoration: none;
+        padding: 15px;
+       
+      
+        
+    }
+    
+    
+    .links li a:hover{
+        background-color: silver;
+        color: black;
+    
+    
+    }
+    .index{
+        background-color: gray;
+        color: black;
+    
+    }
+    .about{
+        background-color: gray;
+        color: black;
+    
+    }
+    .AllAssignments{
+        background-color: gray;
+        color: black;
+    
+    }
+    .SignIn{
+        background-color: gray;
+        color: black;
+    
+    }
+    
+             /* navbar complete */
