@@ -98,4 +98,61 @@
 
 
                        /* all assignmemts start */
+
+                       .assignmentspics{
+                        min-width: 165px;
+                        padding-top: 10px;
+                      background-color: whitesmoke;
+                      width: 100%;
+                      
+                    }       
+                    .olx{
+                        background-color:whitesmoke;
+                        display: flex;
+                        justify-content: center;
+                        flex-wrap: wrap;
+                        background-color: whitesmoke;
+                    } 
+                    .assignmentpara{
+                        
+                        font-family: Arial, Helvetica, sans-serif;
+                        font-size: 18px;
+                        font-style: italic;
+                        text-decoration: underline 0.5px red ;
+                        margin: 30px 10px 20px 10px;
+                        text-align: center;
+                        
+                    }
+                    .assignmentspics img{
+                        border-left: 1px  solid lightslategray;
+                        
+                        border-right: 1px  solid lightslategray;
+                    }
+                    
+                    .heading{
+                        background-color:wheat;
+                        margin-top: 30px;
+                        padding: 5px;
+                        text-align: center;
+                        color: dodgerblue;
+                        font-family:Arial, Helvetica, sans-serif;
+                    }
+                    
+                    .pokemon{
+                      
+                        background-color:whitesmoke;
+                    } 
+                    .facebook{
+                        
+                        background-color:whitesmoke;
+                       
+                    } 
+                    .apple{
+                        background-color:whitesmoke;
+                       
+                    }
+
+
+
+                          /* all assignments end */
             
