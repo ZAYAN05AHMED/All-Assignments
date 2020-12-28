@@ -161,4 +161,31 @@
 
 
                            /* button start */
+
+
+                           .button{
+  
+                            min-width: 100px;
+                            background-color: rgb(12, 143, 196);
+                            border: 1px solid rgb(12, 143, 196);
+                            border-radius: 50px;
+                            height: 20px;
+                            font-size: 13px;
+                            font-family: Arial, Helvetica, sans-serif;
+                            font-weight: bold;
+                            margin: 20px 0px 20px 0px;
+                            text-align: center;
+                            font-style: initial;
+                            text-decoration: none;
+                            padding: 20px 10px 20px 10px;
+                            color: white;
+                            display: inline-block;
+                           
+                        }
+                        
+                        .button:hover{
+                            background-color: rgb(7, 112, 153);
+                            box-shadow: 5px 7px 0.5px lightgray;
+                        }
+                        
             
