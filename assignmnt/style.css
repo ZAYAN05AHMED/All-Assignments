@@ -189,3 +189,44 @@
                         }
                         
                          /* button end */
+
+
+
+                         /* home page start */
+
+                         .image{
+                            
+                           background-image: url(https://images.wallpaperscraft.com/image/pencils_multicolored_stationery_181562_3840x2400.jpg);
+                        }
+                        .home-page h2{
+                            text-align: center;
+                            color: gray;
+                            font-size: 2em;
+                            font-family: Arial, Helvetica, sans-serif;
+                            text-decoration: underline 2px double  wheat;
+
+                        }
+
+
+                         .home-page{
+                             text-align: center;
+                        }
+                         .home-page-main{
+                             
+                             min-width: 45px;
+                           
+                          
+                         }
+                         .home-page-image{
+                            
+                           
+                         }
+                         .home-page-image img{
+                            margin-top: 50px;
+                             min-width: 100px;
+                             padding: 10px;
+                         }
+                       
+
+
+                         /* home page done */
