@@ -14,7 +14,7 @@
     #nav{
         background-color: rgba(0, 0, 0, 0.911);
       
-        margin: -8px 10px 0px 10px;
+        margin: -8px 10px -5px 10px;
         list-style: none;
         
     }
@@ -211,8 +211,8 @@
                             background-repeat: no-repeat;
                          
                             background-position-y: 50px;
-                            
-                           background-image: url(https://i.pinimg.com/originals/a7/0e/b2/a70eb24d289ac638e2fdbe9e28ed5f2b.gif);
+                           
+                           background-image: url("images/moon.gif");
                         }
                         .home-main{
                             display: flex;
@@ -245,5 +245,28 @@
                             }
                         }
 
-
+                    
                          /* home page done */
+
+                            /* footer start  */
+
+
+.foot {
+    background-color: gray;
+    color: silver;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 2em;
+    padding: 0px 10px 0px 10px ;
+    font-weight: bold;
+    
+                        }
+
+                        .foot p{
+                                padding-left: 10px;
+                               background-color: rgba(0, 0, 0, 0.911);
+        
+                        }
+                        #foot{
+                            margin: 0px -5px -10px -10px;
+                        }
